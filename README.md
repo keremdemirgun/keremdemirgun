@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Kerem
 
-<!--
-**keremdemirgun/keremdemirgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology enthusiast and developer who enjoys learning, building, and experimenting with new ideas in software.
 
-Here are some ideas to get you started:
+Currently, I focus mainly on **JavaScript**, **Python**, and **React**. I'm especially interested in **web development**, but I'm always open to learning new technologies and exploring different areas of programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 Passionate about **software and technology**
+* ⚡ Focused on **JavaScript, Python, and React**
+* 🌱 Always learning and improving my skills
+* 🧠 Interested in building real projects and understanding how things work
+* 📹 I also create **technology content on YouTube**
+
+## 🎯 Goal
+
+To become a better developer by **building projects, learning continuously, and exploring new technologies**.

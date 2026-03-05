@@ -1,4 +1,4 @@
-# Hi 👋 I'm Kerem
+# Hi 👋 I'm Kerem Demirgun
 
 I'm a technology enthusiast and developer who enjoys learning, building, and experimenting with new ideas in software.
 
